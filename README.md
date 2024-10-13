@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # portifolio-kelvin
 >>>>>>> a42e9ef61910eba9e155651c70e75ed330838026
+=======
+# Desafio4-versionamento
+>>>>>>> d0ed14562f6e6c3908dd945d29979a8258266801
